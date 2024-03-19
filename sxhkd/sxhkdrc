@@ -11,7 +11,7 @@ alt + Return
 	rofi -show run
 
 # program launcher
-super + M
+super + @space
 	dmenu_run
 
 # make sxhkd reload its configuration files:
